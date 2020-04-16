@@ -15,8 +15,7 @@
 ---
 ![Rapid Prototyping in Software Development by Katie Boyd](../images/rapid-prototyping-cover-slide.jpg)
 
-## ✨Presentation 1 ✨
-Rapid Prototyping and Design Systems
+## ✨ Rapid Prototyping in Software Development ✨
 Katie will share a little about her day to day as a Prototyper working at Nike, as well as a few special projects she has worked on.
 
 ## 🎙️ About Our Speaker: Katie Boyd
@@ -30,8 +29,7 @@ Katie Boyd ([@katrilllion](https://twitter.com/katrilllion)) is a front end deve
 
 <iframe src="https://slides.com/mjordancodes/css-animation/embed" width="100%" height="500px" scrolling="no" frameborder="10" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## ✨Presentation 2 ✨
-A Crash Course in CSS Animations
+## ✨ A Crash Course in CSS Animations ✨
 In this talk you will learn some quick rules and tips about when and how to use CSS Animations. We will review how browsers render HTML/CSS to better understand how we can optimize animations for user delight without slowing down the experience.
 
 ## 🎙️ About Our Speaker

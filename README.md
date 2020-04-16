@@ -6,3 +6,6 @@ Everyone is welcome, no matter what level. This event will specifically focus on
 
 ## Find Our Next Event:
 Check out our [Meetup page](https://www.meetup.com/Women-Who-Code-Boulder-Denver) for upcoming events. 
+
+# Previous Events
+- [Rapid Prototyping and CSS Animation](./previous-events/04-13-2020_rapid-prototyping-and-css-animations.md) | 04/13/2020
