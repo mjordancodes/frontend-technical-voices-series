@@ -1,4 +1,4 @@
-<img src="images/general_tech_voices.png" height="100">
+<img src="images/general_tech_voices.png" >
 
 # Frontend Technical Voices Series
 Digital space for the WWCode Frontend Technical Voices Series Denver meetup run by @mjordancodes
